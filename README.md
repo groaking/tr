@@ -1,4 +1,4 @@
-# personal-music-playlists
+# tr
 All the personal musical taste and playlists known as "Tracerecord" combined into one single repository for accessibility
 
 ## A. Rawtrace Record
@@ -282,7 +282,7 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 
 ## D. Fabulation Record
 
-1. **Human (2021.01.06)** [🎵]()
+1. **Human (2021.01.06)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBarY3k7ZgudCBiqETQMkUYk)
 - The Script/No Good in Goodbye
 - The Script/The Man Who Can't Be Moved
 - The Script/Kaleidoscope
@@ -290,97 +290,97 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - The Script/Army of Angels
 - The Script/Man on a Wire
 - The Script/Run Through Walls
-2. **Feather (2021.02.23)** [🎵]()
+2. **Feather (2021.02.23)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbODb6jynm96UHhnprbOu60)
 - Mili/Utopiosphere
 - Mili/From a place of love
 - Mili/Sloth
-3. **Kencana (2021.02.nn)** [🎵]()
+3. **Kencana (2021.02.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBb23iFCVbVJWi3C09UhhL6X)
 - Porter Robinson/Shelter
 - Porter Robinson/Sad Machine
-4. **Hangwires (2021.02.23)** [🎵]()
+4. **Hangwires (2021.02.23)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZs6N39tTRAyZ5IGvfjQ7cp)
 - Basenji/Can't Get Enough
 - MØ/Kamikaze
 - Melanie Martinez/Soap
-5. **Hypothesa (2021.03.nn)** [🎵]()
+5. **Hypothesa (2021.03.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbLWKFPbAPa6XSWx3n67aBW)
 - Faun/Aufbruch
 - Faun/Lange Schatten
 - Faun/Rabenballade
-6. **Pixelation (2021.04.nn)** [🎵]()
+6. **Pixelation (2021.04.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYyB9SVVylAturFxjxQ_F3a)
 - Chris Tomlin/God Who Listens
 - Chris Tomlin/Indescribable
 - Chris Tomlin/Miracle of love
 - Chris Tomlin/Reaching for You
-7. **Qubicle (2021.04.14)** [🎵]()
+7. **Qubicle (2021.04.14)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBY1nnryN9vdyMy7my69H0x4)
 - Mili/A Turtle's Heart
 - Mili/Ephemeral
 - Mili/Friction
 - Mili/Rosetta
 - Mili/Unidentified Flavourful Object
-8. **Matrices (2021.04.15)** [🎵]()
+8. **Matrices (2021.04.15)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaH1YCYItbMGpQrkciJky3d)
 - (alt) Christophe Beck/Sisters
-- Jonathan Groff/Get This Right
-- Josh Gad/Unmeltable Me
+- (---) Jonathan Groff/Get This Right
+- (---) Josh Gad/Unmeltable Me
 - (alt) Kristen Anderson-Lopez/I Seek The Truth
 - (alt) Kristen Bell/Home
-9. **Tensa (2021.05.09)** [🎵]()
+9. **Tensa (2021.05.09)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbpqO6-mRprb8zwM5NX4QJ2)
 - Christophe Beck/Fire and Ice
 - Christophe Beck/Iduna's Scarf
 - Christophe Beck/Dark Sea
 - Christophe Beck/Ghosts of Arendelle Past
 - Christophe Beck/Reunion
-10. **Hawking (2021.06.09)** [🎵]()
+10. **Hawking (2021.06.09)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZ9okCiEP9BdUQ_HniataGF)
 - Mili/Colorful
 - Mili/Imagined Flight
 - Mili/Fable
-11. **Canvas (2021.07.03)** [🎵]()
+11. **Canvas (2021.07.03)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBb1sN7cddo1kD0u2SbySUfg)
 - Kari Jobe/Fall Afresh
 - Kari Jobe/I Will Sing
 - Kari Jobe/Miracles
 - Kari Jobe/Closer to Your Heart
 - Kari Jobe/Oh The Power
-12. **Vivy (2021.07.11)** [🎵]()
+12. **Vivy (2021.07.11)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaZqsbAs93y5uzq1A6kKvYP)
 - Sawano Hiroyuki/Avid
 - Sawano Hiroyuki/Into The Sky
 - Sawano Hiroyuki/Cry
 - Sawano Hiroyuki/Binary Star
 - Sawano Hiroyuki/Tranquility
-13. **Archer (2021.07.22)** [🎵]()
+13. **Archer (2021.07.22)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYCU77gLixTMtVsM6m9QyPW)
 - Rush Garcia/Shelter Orchestration
 - Seycara/Shelter Concert Bandwind Ensemble
 - Seycara/Shelter Ghibli Orchestra
 - Seycara/Shelter Ghibli Piano and Violin
-14. **Liebe (2021.07.23)** [🎵]()
+14. **Liebe (2021.07.23)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZYwWYQqW1OIGXZppgi69li)
 - (alt) Kokia/Raion
 - (alt) Kokia/Kujira
-- Kokia/Fukurou
-- Kokia/Kuma
-15. **Power (2021.08.16)** [🎵]()
+- (---) Kokia/Fukurou
+- (---) Kokia/Kuma
+15. **Power (2021.08.16)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBa5gt-k6eRzK6agpC46IrBy)
 - Coldplay/Higher Power
 - Mili/RTRT
 - Sawano Hiroyuki/Remember
 - The Script/Dead Man Walking
 - Kokia/Moment (Ima o Ikiru)
-16. **Causality (2021.08.30)** [🎵]()
+16. **Causality (2021.08.30)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaeRQFG8Kza8p6s7MXOlpq4)
 - Coldplay/Church
 - Coldplay/Old Friends
 - Coldplay/Trouble In Town
 - Coldplay/Orphans
 - Coldplay/Flags
-17. **Valediction (2021.09.23)** [🎵]()
+17. **Valediction (2021.09.23)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBa1-RIj5xnXTtqAK12Cv0WW)
 - Christy Altomare/Journey to the Past
 - Rush Garcia/Pixel Galaxy
 - Derek Klena/My Petersburg
 - Rush Garcia/Isabella's Lullaby
 - Derek Klena/In a Crowd of Thousands
 - Rush Garcia/Here Comes a Thought
-18. **Chamber (2021.10.07)** [🎵]()
+18. **Chamber (2021.10.07)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYqqhcAoVFS8HLnFrjhk-lf)
 - Rush Garcia/Do It for Her
 - Rush Garcia/His Last Thoughts
 - Rush Garcia/Grand Escape
 - Rush Garcia/Come Along With Me
 - Rush Garcia/The Night Is My Ally
 - Rush Garcia/Invisible
-19. **Premature (2021.11.20)** [🎵]()
+19. **Premature (2021.11.20)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYWBPOQWxNDqCqTWHF9iI0d)
 - Thomas Newman/Starlit
 - Thomas Newman/Accidental Happiness
 - Thomas Newman/The Sleeping Girl
@@ -390,7 +390,7 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 
 ## E. Legacyrotile Record
 
-1. **Mind (2021.11.20)** [🎵]()
+1. **Mind (2021.11.20)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBab0fi9MNdBaEGHx5mOxGxF)
 - James Horner/A Kaleidoscope of Mathematics
 - James Horner/All Love Can Be
 - James Horner/Creating "Governing Dynamics"
@@ -398,112 +398,112 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - James Horner/Playing a Game of "Go!"
 - James Horner/Teaching Mathematics Again
 - James Horner/The Prize of One's Life... The Prize of One's Mind
-2. **Alamo (2021.12.03)** [🎵]()
+2. **Alamo (2021.12.03)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBazvEMIXo6gWUG9te5lrdyI)
 - Yorushika/Rain with Cappuccino
 - Yorushika/Say It.
 - Yorushika/Hitchcock
 - Yorushika/Just a Sunny Day for You
 - Yorushika/That's Why I Gave Up on Music
 - Yorushika/Deep Indigo
-3. **Fishery (2021.12.17)** [🎵]()
+3. **Fishery (2021.12.17)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYPOpPasjIiTeGNzvp9aL_T)
 - Kasbo/Aldrig Mer
 - Kasbo/Play Pretend
 - Shallou/Older
 - Kasbo/Snow In Gothenburg
 - Kasbo/About You
 - Shallou/Fading
-4. **Leftie (2022.01.09)** [🎵]()
+4. **Leftie (2022.01.09)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZPbqoLemVLPFl6pwxdo3ZI)
 - Yorushika/Spring Thief
 - Yorushika/Parade
 - Rush Garcia/Champion's Call
 - Yorushika/A Hole Opened Up in My Heart
 - Yorushika/Eat The Wind
 - Rush Garcia/Take to the Sky
-5. **Forgive (2022.02.04)** [🎵]()
+5. **Forgive (2022.02.04)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBY-8f3MXHGgMnDLUMls8n9M)
 - Rush Garcia/I Can Go Further
 - Rush Garcia/True Strength
 - Rush Garcia/Violet Expressions
 - Rush Garcia/I'm Still Me
 - Rush Garcia/Ramune
 - Rush Garcia/Bubble Tea
-6. **Jarinet (2022.03.03)** [🎵]()
+6. **Jarinet (2022.03.03)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBa-jDW6lSJAcMQVCUZNlyWD)
 - Rush Garcia/To the West
 - Rush Garcia/Never Be Alone
 - Rush Garcia/Edge of Dawn
 - Rush Garcia/Hot Milk
 - Rush Garcia/Acacia
 - Rush Garcia/Inferno
-7. **Granny (2022.04.08)** [🎵]()
+7. **Granny (2022.04.08)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBY8MRJxMmwuhZuGJ_eC8mWr)
 - Rush Garcia/Hanezeve Caradhina
 - Rush Garcia/Monody
 - Rush Garcia/A King's Strategy
 - Rush Garcia/Fairies and Dragons
 - Rush Garcia/Do I Know You
 - Rush Garcia/Here
-8. **Joana (2022.06.23)** [🎵]()
+8. **Joana (2022.06.23)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBa7mhrO9ALg5drCD0WSXLjX)
 - Seycara/Darling
 - Seycara/Freedom
 - Seycara/Again
 - Seycara/Get Your Wish
 - Seycara/Starsail
 - Seycara/Everlasting Summer
-9. **Move (2022.09.23)** [🎵]()
+9. **Move (2022.09.23)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbUZXi8TSKL3mcWqQscZTn-)
 - Rush Garcia/Sketch 1 - Small Lights
 - Rush Garcia/Sketch 2 - Forget About Me
 - Rush Garcia/Sketch 3 - Against All Odds
 - Rush Garcia/Sketch 4 - It's Just Like Dancing
 - Rush Garcia/Sketch 5 - World's End
 - Rush Garcia/Sketch 6 - Milo's Melody
-10. **Zedist (2022.10.27)** [🎵]()
+10. **Zedist (2022.10.27)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZb2qQShcS_ZNwVOvQM2rOT)
 - Seycara/Pink Lemonade
 - Seycara/I Won't Let Go
 - Seycara/When The First Leaf Falls
 - Seycara/Parasol
 - Seycara/Twilight Fog
 - Seycara/Blue Moon
-11. **Reminiscence (2022.12.16)** [🎵]()
+11. **Reminiscence (2022.12.16)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaEEgLcfcTxTc6z302ZJIra)
 - Rush Garcia/Sketch 7 - When You Were Here
 - Rush Garcia/Sketch 8 - Glorious
 - Rush Garcia/Sketch 9 - You Know That Feeling
 - Rush Garcia/Sketch 10 - Hope Again
 - Rush Garcia/Sketch 11 - I've Had Enough
 - Rush Garcia/Sketch 12 - Kingdom
-12. **Change (2023.04.04)** [🎵]()
+12. **Change (2023.04.04)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbOFq16fY8ebXqAQNP1wTy9)
 - Rush Garcia/Sketch 13 - The Next Chapter
 - Rush Garcia/Sketch 14 - She Did It
 - Rush Garcia/Sketch 15 - Afterwards
 - Rush Garcia/Sketch 16 - Step Forward
 - Rush Garcia/Sketch 17 - The Expanse
 - Rush Garcia/Sketch 18 - I Told You So
-13. **Low (2023.07.07)** [🎵]()
+13. **Low (2023.07.07)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZUCDMjlEZsiY5vuEZHqcMq)
 - Rush Garcia/Sketch 19 - A Break
 - Rush Garcia/Sketch 20 - It's Getting Colder
 - Rush Garcia/Sketch 21 - Fields
 - Rush Garcia/Sketch 22 - Deliberate
 - Rush Garcia/Sketch 23 - Unorthodox
 - Rush Garcia/Sketch 24 - Shine and Never Fade
-14. **Last (2023.08.22)** [🎵]()
+14. **Last (2023.08.22)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZx8qfh8CTwj3qHx7w4hGHI)
 - Rush Garcia/Sketch 25 - Cycle of Humanity
 - Rush Garcia/Sketch 26 - A Galaxy Far Far Away
 - Rush Garcia/Sketch 27 - Meager Flame
 - Rush Garcia/Sketch 28 - Promise Kept
 - Rush Garcia/Sketch 29 - Pigment
 - Rush Garcia/Sketch 30 - Above
-15. **Guilt (2023.10.30)** [🎵]()
+15. **Guilt (2023.10.30)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBY40ReYLPytiOwLr5QOty0v)
 - Kokia/Recover
 - Kokia/I Found the Love
 - Kokia/Make Sense
 - Kokia/Dear Armstrong
 - Kokia/I Found You
 - Kokia/旅列車 life train (travel train life train)
-16. **Avoidance (2023.12.07)** [🎵]()
+16. **Avoidance (2023.12.07)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBag0zs0-uQ-Tt3y8K4Spwjf)
 - Kokia/本当の音 (real sound)
 - Kokia/優しい調べ (gentle tune)
 - Kokia/空でつながってる (connected by the sky)
 - Kokia/愛と平和と音楽と (love, peace, and music)
 - Kokia/5つ目の季節 (the fifth season)
 - Kokia/もう一度… (one more time ...)
-17. **Qinxing (2024-01-04)** [🎵]()
+17. **Qinxing (2024-01-04)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZl-W1hCSbOWeQrGM1Wg1jX)
 - Kokia/Hello
 - Kokia/Aliens ～宇宙人わかりました～
 - Kokia/I'm scared of ghosts - お化けが怖いなんて
