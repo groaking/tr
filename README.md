@@ -43,13 +43,13 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 
 ## B. Testimental Record
 
-1. **Conversation (2017.nn.nn)** [🎵]()
+1. **Conversation (2017.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYU-oQxYI7VbPzF2cfTS0lU)
 - Coldplay/Magic
 - Coldplay/Always In My Head
 - Coldplay/Hypnotised
 - Coldplay/Christmas Light
 - Coldplay/All I Can Think About Is You
-2. **Memorydye (2017.12.nn)** [🎵]()
+2. **Memorydye (2017.12.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYr7ItWM7y14Mc6RNdVhVVu)
 - Coldplay/Hurts Like Heaven
 - Coldplay/Charlie Brown
 - Coldplay/A Message
@@ -61,7 +61,7 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Liam Payne/Bedroom Floor
 - Razihel/Legends
 - Portugal. The Man/Feel It Still
-3. **Smokestack (2017.nn.nn)** [🎵]()
+3. **Smokestack (2017.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbyAtbMkMsizFtWoxAJ0Rva)
 - The Chainsmokers/It Won't Kill Ya
 - The Chainsmokers/Bloodstream
 - The Chainsmokers/Don't Say
@@ -69,7 +69,7 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - The Chainsmokers/Paris
 - The Chainsmokers/The One
 - The Chainsmokers/Wake Up Alone
-4. **Resistance (2018.nn.nn)** [🎵]()
+4. **Resistance (2018.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaqkbcjpOCVpE_F4uylTx26)
 - Muse/Resistance
 - Muse/Unintended
 - Muse/Psycho
@@ -77,48 +77,48 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Muse/Uprising
 - Muse/Knights of Cydonia
 - Muse/Madness
-5. **Vincero (2018.nn.nn)** [🎵]()
+5. **Vincero (2018.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZEw8THg5WJMUPrA62QndCW)
 - Newsboys/Guilty
 - Newsboys/That's How You Change The World
 - Newsboys/We Believe
 - Newsboys/God's Not Dead
-6. **Spy (2018.03.13)** [🎵]()
+6. **Spy (2018.03.13)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYp1WaGPNgMa6Cx9R8Uyq0n)
 - Coldplay/Such A Rush
 - Coldplay/Sparks
 - Coldplay/Spies
-7. **Ricefield (2018.03.16)** [🎵]()
+7. **Ricefield (2018.03.16)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYtVeExREGu1OebpNuGtcQu)
 - Coldplay/Rainy Day
 - Coldplay/Death and All His Friends
 - Coldplay/Glass of Water
 - Coldplay/Life in Technicolor II
 - Coldplay/Warning Sign
-8. **Affiliation (2018.05.nn)** [🎵]()
+8. **Affiliation (2018.05.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbXuJWe0HSAxq0Wk1zfkgqT)
 - Coldplay/Moving to Mars
 - Coldplay/Low
 - Coldplay/True Love
 
 ## C. Consciousibility Record
 
-1. **Doodlegame (2018.06.26)** [🎵]()
+1. **Doodlegame (2018.06.26)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZoq6WxHNyw-TKCgvJaBPBT)
 - Coldplay/Up in Flames
 - Coldplay/Don't Let It Break Your Heart
 - Coldplay/Up With The Birds
-2. **Athmospherea (2018.09.28)** [🎵]()
+2. **Athmospherea (2018.09.28)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbowCkdJvhZql9-5pVxMj6a)
 - Depapepe/ONE
 - Depapepe/Koimizu
 - Depapepe/Starry Night
 - Depapepe/Pride
-3. **Clackmount (2018.08.nn)** [🎵]()
+3. **Clackmount (2018.08.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbUr8cNP-UM4k8sUOoM9vZA)
 - Imagine Dragons/Amsterdam
 - Imagine Dragons/Fallen
 - Imagine Dragons/It's Time
 - Imagine Dragons/Radioactive
 - Imagine Dragons/Tiptoe
-4. **Consequential (2018.nn.nn)** [🎵]()
+4. **Consequential (2018.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbnMwDgQRb3HwX07TYy6OQN)
 - Nadia Fatira/Jauh
 - Nadia Fatira/Lagu Tanpa Huruf R
 - Nadia Fatira/Penyendiri
-5. **Founder (2018.12.03)** [🎵]()
+5. **Founder (2018.12.03)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZ8H7pdq-HuH1zqa5dNbyNv)
 - The Script/You Won't Feel A Thing
 - Imagine Dragons/Round and Round
 - Imagine Dragons/The River
@@ -126,42 +126,42 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - The Script/Long Gone and Moved On
 - The Script/Science and Faith
 - The Script/Written in the Scars
-6. **Inauguration (2019.01.03)** [🎵]()
+6. **Inauguration (2019.01.03)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYe_HHpOxW4e1bdDO59AOlx)
 - Empire of the Sun/DNA
 - Empire of the Sun/Alive
 - Empire of the Sun/Concert Pitch
 - Empire of the Sun/Ice on the Dune
 - Empire of the Sun/Awakening
-7. **Examinated (2019.03.nn)** [🎵]()
+7. **Examinated (2019.03.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZvWJ4g3XO73hxRhebGE1p4)
 - Payung Teduh/Cerita Tentang Gunung dan Laut
 - Martin Garrix/No Sleep
 - Coldplay/Daylight
 - Kehlani/Nights Like This
-8. **Truefrost (2018.05.27)** [🎵]()
+8. **Truefrost (2018.05.27)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYRCWZDhDRw2Ke2zfe584bO)
 - Coldplay/Swallowed in the Sea
 - Coldplay/'Til Kingdom Come
 - Coldplay/Twisted Logic
-9. **Falsification (2018.07.11)** [🎵]()
+9. **Falsification (2018.07.11)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaQv3wF9AW9GyOTWlSIoT8B)
 - The Afters/I Will Fear No More
 - The Afters/Life is Beautiful
 - The Afters/Light Up The Sky
 - The Afters/Shadows
-10. **Xifil (2019.08.24)** [🎵]()
+10. **Xifil (2019.08.24)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZloH0hlu_dqEqwQIbCIpU8)
 - Illenium/Reverie
 - Purity Ring/Bodyache
-11. **Decoy (2019.11.01)** [🎵]()
+11. **Decoy (2019.11.01)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbJaK44YZpW2KhWjV5zoTkN)
 - ODESZA/Say My Name
 - ODESZA/It's Only
 - ODESZA/How Did I Get Here
 - ODESZA/Corners of the Earth
 - ODESZA/Just A Memory
-12. **Speedrush (2020.01.05)** [🎵]()
+12. **Speedrush (2020.01.05)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaMZoqgCz0aXujJU1oNXbM-)
 - (alt) Coldplay/Things I Don't Understand
 - (---) Coldplay/The World Turned Upside Down
 - (---) Coldplay/How You See The World
 - (alt) Coldplay/Square One
 - (alt) Coldplay/White Shadows
-13. **Skylift (2020.01.29)** [🎵]()
+13. **Skylift (2020.01.29)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBa5bF1GAL4E2gMBrLGfngZ-)
 - (---) Coldplay/Arabesque
 - (alt) Coldplay/Amsterdam
 - (alt) Coldplay/Daddy
@@ -169,7 +169,7 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - (---) Coldplay/Cemeteries of London
 - (---) Coldplay/A Whisper
 - (---) Coldplay/When I Need A Friend
-14. **Imaginary (2020.04.07)** [🎵]()
+14. **Imaginary (2020.04.07)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYSaG6emWs-oQXrm2jbsZwG)
 - Illenium/Fractures
 - The Script/Nothing
 - Imagine Dragons/Friction
@@ -177,13 +177,13 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Imagine Dragons/Leave Me
 - Imagine Dragons/The Fall
 - Illenium/Beautiful Creatures
-15. **Inkspray (2020.05.19)** [🎵]()
+15. **Inkspray (2020.05.19)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBY1DnSW643ga3CIUU7unN_3)
 - ODESZA/Echoes
 - ODESZA/Falls
 - ODESZA/Memories That You Call
 - ODESZA/Meridian
 - ODESZA/White Lies
-16. **Complementary (2020.nn.nn)** [🎵]()
+16. **Complementary (2020.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZLxUIKmf0n005dQNskJV25)
 - (A) Gamaband/Sajak Samudera
 - (A) Gamaband/Bayangan
 - (B) Gamaband/What's This
@@ -191,36 +191,36 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - (B) Gamaband/Menunggu
 - (B) Gamaband/Lesung
 - (B) Gamaband/Ode Liberasi
-17. **Supplementary (2020.nn.nn)** [🎵]()
+17. **Supplementary (2020.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZ2NPW7vK935L1zBitYsogx)
 - The Script/Nothing
 - Imagine Dragons/The Fall
 - Gamaband/Sajak Samudera
 - Gamaband/Bayangan
-18. **Discovery (2020.06.02)** [🎵]()
+18. **Discovery (2020.06.02)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaTvmj3JWc_3dWvW5C4Nb__)
 - Calmness
 - (alt) Audio Library Plus/Discovery
 - (alt) Audio Library Plus/Feelings
 - (alt) Audio Library Plus/Memories
 - (---) Audio Library Plus/Perspective
 - (---) Audio Library Plus/Serenity
-19. **Quoran (2020.08.07)** [🎵]()
+19. **Quoran (2020.08.07)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZP9BP4xAGMFwvqTfYU6kt4)
 - Coldplay/No More Keeping My Feet On The Ground
 - Coldplay/The Goldrush
 - Coldplay/High Speed
 - Coldplay/Oceans
 - Coldplay/We Never Change
-20. **Vintagial (2020.08.17)** [🎵]()
+20. **Vintagial (2020.08.17)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbkKuyuj8o86K0zQZaKN1oK)
 - (---) Frozen 2/All is Found
 - (---) Frozen 2/Into the Unknown
 - (alt) Frozen 2/Show Yourself
 - (---) Frozen 2/Lost in the Woods
 - (alt) Frozen 2/The Next Right Thing
 - (---) Frozen 2/Some Things Never Change
-21. **Hurricane (2020.08.21)** [🎵]()
+21. **Hurricane (2020.08.21)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYfG4_wmbAtQLsVeI7gQ9Ns)
 - Payung Teduh/Untuk Perempuan yang sedang di Pelukan
 - Payung Teduh/Angin Pujaan Hujan
 - Payung Teduh/Menuju Senja
-22. **Quarantine (2020.09.14)** [🎵]()
+22. **Quarantine (2020.09.14)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZJAGnnOyhAYBsBzr-2K6J3)
 - (A) Frozen/Epilogue
 - (A) Frozen/Fixer Upper
 - (A) Frozen/Life's Too Short
@@ -229,39 +229,39 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - (B) Frozen/Some People Are Worth Melting For
 - (B) Frozen/The Trolls
 - (B) Frozen/Treason
-23. **Unsolicited (2020.09.24)** [🎵]()
+23. **Unsolicited (2020.09.24)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBb73xTDrukMcSbws987nFw1)
 - Chicago/Look Away
 - Chicago/One From The Heart
 - Chicago/Stay The Night
 - Chicago/Together Again
 - Chicago/What Does It Take
-24. **Interpretation (2020.09.24)** [🎵]()
+24. **Interpretation (2020.09.24)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbfFbKnTwsdVXcnB4zjVEaq)
 - Sting/All This Time
 - Sting/Be Still My Beating Heart
 - Sting/Every Little Thing She Does Is Magic
 - Sting/After The Rain Has Fallen
 - Sting/Straight To My Heart
-25. **Scientific (2020.11.28)** [🎵]()
+25. **Scientific (2020.11.28)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBY1tYTYMjIKZPKXUK1SS6Al)
 - Audio Library Plus/Lisbon
 - Audio Library Plus/Missing Piece
 - Audio Library Plus/Secret to Happiness
 - Audio Library Plus/Stable
 - Audio Library Plus/The Day I Met You
-26. **Ungaran (2020.10.23)** [🎵]()
+26. **Ungaran (2020.10.23)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBauJd_v0rqabSof0gPB15BN)
 - Purple Planet/Make It So
 - Purple Planet/Catalyst
 - Purple Planet/Positive Motivation
 - Purple Planet/Passport
-27. **Journalism (2020.10.23)** [🎵]()
+27. **Journalism (2020.10.23)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaouHCd48EuRYhBZWV46Oyc)
 - Purple Planet/Kaleidoscope
 - Purple Planet/Quiescence
 - Purple Planet/Delirium
-28. **Interface (2020.11.29)** [🎵]()
+28. **Interface (2020.11.29)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbaYMWgXk5QF40owKR62aZV)
 - The Piano Guys/DNA (BTS)
 - The Piano Guys/Limitless
 - The Piano Guys/Miracles
 - The Piano Guys/North Cape
-29. **Hopefulness (2020.11.16)** [🎵]()
+29. **Hopefulness (2020.11.16)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZg4dtD9r8pVh5e_EfoD6I4)
 - Coldplay/Champion of the World
 - Coldplay/Goodbye and Goodnight
 - Coldplay/Gravity
@@ -270,7 +270,7 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Coldplay/42
 - Coldplay/Bigger Stronger
 - Coldplay/See You Soon
-30. **Two (2020.11.29)** [🎵]()
+30. **Two (2020.11.29)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbm1SgIqzsvofjzgs2RozIB)
 - Purple Planet/Botanic
 - Purple Planet/Live Forever
 - Purple Planet/My Personal Journey
