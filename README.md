@@ -503,10 +503,17 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Kokia/愛と平和と音楽と (love, peace, and music)
 - Kokia/5つ目の季節 (the fifth season)
 - Kokia/もう一度… (one more time ...)
-17. **Qinxing (2024-01-04)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZl-W1hCSbOWeQrGM1Wg1jX)
+17. **Qinxing (2024.01.04)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZl-W1hCSbOWeQrGM1Wg1jX)
 - Kokia/Hello
 - Kokia/Aliens ～宇宙人わかりました～
 - Kokia/I'm scared of ghosts - お化けが怖いなんて
 - Kokia/tori
 - Kokia/the other side of words - 言葉の向こう側
 - Kokia/the last sleep - 最後の眠り
+18. **Boxing (2024.01.18)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaTEBJt6kgypNfrWWLj3SaS)
+- Kokia/Where to go my love (Piano ver.)
+- Kokia/love echoes - 愛はこだまする
+- Kokia/you are not alone
+- Kokia/don't forget to smile - 微笑みを忘れないように
+- Kokia/the middle of a dream - 夢の途中
+- Kokia/it was a love like movie - 映画のような恋でした
