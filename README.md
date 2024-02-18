@@ -3,7 +3,7 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 
 ## A. Rawtrace Record
 
-1. **Remembrance (2013.nn.nn)**
+1. **Remembrance (2013.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbiBKREtkcyZtM8c6DwZuf6)
 - Marc Enfroy/A Positive Spirit
 - Mandy Moore/Only Hope (Instrumental)
 2. **Artificial (2013.nn.nn)**
