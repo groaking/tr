@@ -517,3 +517,10 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Kokia/don't forget to smile - 微笑みを忘れないように
 - Kokia/the middle of a dream - 夢の途中
 - Kokia/it was a love like movie - 映画のような恋でした
+19. **Ovation (2024.02.24)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBahNuEGGcNX7cs79ZbQM1aM)
+\- Alexander Hamilton The American Musical/Alexander Hamilton
+\- Alexander Hamilton The American Musical/Aaron Burr, Sir
+\- Alexander Hamilton The American Musical/My Shot
+\- Alexander Hamilton The American Musical/The Story of Tonight
+\- Alexander Hamilton The American Musical/The Schuyler Sisters
+\- Alexander Hamilton The American Musical/Farmer Refuted
