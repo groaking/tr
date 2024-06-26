@@ -524,3 +524,10 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Alexander Hamilton The American Musical/The Story of Tonight
 - Alexander Hamilton The American Musical/The Schuyler Sisters
 - Alexander Hamilton The American Musical/Farmer Refuted
+20. **Kahat (2024.05.25)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYJPM6WpQhidSYNyJ7ozTGg)
+- Bernadya/Satu Bulan
+- Bernadya/Apa Mungkin
+- Bernadya/Terlintas
+- Bernadya/Masa Sepi
+- Bernadya/Sinyal-Sinyal
+- Bernadya/Kata Mereka Ini Berlebihan
