@@ -156,19 +156,19 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - ODESZA/Corners of the Earth
 - ODESZA/Just A Memory
 12. **Speedrush (2020.01.05)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaMZoqgCz0aXujJU1oNXbM-)
-- (alt) Coldplay/Things I Don't Understand
-- (---) Coldplay/The World Turned Upside Down
-- (---) Coldplay/How You See The World
-- (alt) Coldplay/Square One
-- (alt) Coldplay/White Shadows
+- Coldplay/Things I Don't Understand
+- Coldplay/The World Turned Upside Down
+- Coldplay/How You See The World
+- Coldplay/Square One
+- Coldplay/White Shadows
 13. **Skylift (2020.01.29)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBa5bF1GAL4E2gMBrLGfngZ-)
-- (---) Coldplay/Arabesque
-- (alt) Coldplay/Amsterdam
-- (alt) Coldplay/Daddy
-- (alt) Coldplay/Everyday Life
-- (---) Coldplay/Cemeteries of London
-- (---) Coldplay/A Whisper
-- (---) Coldplay/When I Need A Friend
+- Coldplay/Arabesque
+- Coldplay/Amsterdam
+- Coldplay/Daddy
+- Coldplay/Everyday Life
+- Coldplay/Cemeteries of London
+- Coldplay/A Whisper
+- Coldplay/When I Need A Friend
 14. **Imaginary (2020.04.07)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYSaG6emWs-oQXrm2jbsZwG)
 - Illenium/Fractures
 - The Script/Nothing
@@ -184,25 +184,25 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - ODESZA/Meridian
 - ODESZA/White Lies
 16. **Complementary (2020.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZLxUIKmf0n005dQNskJV25)
-- (A) Gamaband/Sajak Samudera
-- (A) Gamaband/Bayangan
-- (B) Gamaband/What's This
-- (B) Gamaband/Mine
-- (B) Gamaband/Menunggu
-- (B) Gamaband/Lesung
-- (B) Gamaband/Ode Liberasi
+- Gamaband/Sajak Samudera
+- Gamaband/Bayangan
+- Gamaband/What's This
+- Gamaband/Mine
+- Gamaband/Menunggu
+- Gamaband/Lesung
+- Gamaband/Ode Liberasi
 17. **Supplementary (2020.nn.nn)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZ2NPW7vK935L1zBitYsogx)
 - The Script/Nothing
 - Imagine Dragons/The Fall
 - Gamaband/Sajak Samudera
 - Gamaband/Bayangan
 18. **Discovery (2020.06.02)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaTvmj3JWc_3dWvW5C4Nb__)
-- Calmness
-- (alt) Audio Library Plus/Discovery
-- (alt) Audio Library Plus/Feelings
-- (alt) Audio Library Plus/Memories
-- (---) Audio Library Plus/Perspective
-- (---) Audio Library Plus/Serenity
+- Audio Library Plus/Calmness
+- Audio Library Plus/Discovery
+- Audio Library Plus/Feelings
+- Audio Library Plus/Memories
+- Audio Library Plus/Perspective
+- Audio Library Plus/Serenity
 19. **Quoran (2020.08.07)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZP9BP4xAGMFwvqTfYU6kt4)
 - Coldplay/No More Keeping My Feet On The Ground
 - Coldplay/The Goldrush
@@ -210,25 +210,25 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Coldplay/Oceans
 - Coldplay/We Never Change
 20. **Vintagial (2020.08.17)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbkKuyuj8o86K0zQZaKN1oK)
-- (---) Frozen 2/All is Found
-- (---) Frozen 2/Into the Unknown
-- (alt) Frozen 2/Show Yourself
-- (---) Frozen 2/Lost in the Woods
-- (alt) Frozen 2/The Next Right Thing
-- (---) Frozen 2/Some Things Never Change
+- Frozen 2/All is Found
+- Frozen 2/Into the Unknown
+- Frozen 2/Show Yourself
+- Frozen 2/Lost in the Woods
+- Frozen 2/The Next Right Thing
+- Frozen 2/Some Things Never Change
 21. **Hurricane (2020.08.21)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBYfG4_wmbAtQLsVeI7gQ9Ns)
 - Payung Teduh/Untuk Perempuan yang sedang di Pelukan
 - Payung Teduh/Angin Pujaan Hujan
 - Payung Teduh/Menuju Senja
 22. **Quarantine (2020.09.14)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZJAGnnOyhAYBsBzr-2K6J3)
-- (A) Frozen/Epilogue
-- (A) Frozen/Fixer Upper
-- (A) Frozen/Life's Too Short
-- (B) Frozen/The Great Thaw
-- (B) Frozen/Epilogue
-- (B) Frozen/Some People Are Worth Melting For
-- (B) Frozen/The Trolls
-- (B) Frozen/Treason
+- Frozen/Epilogue
+- Frozen/Fixer Upper
+- Frozen/Life's Too Short
+- Frozen/The Great Thaw
+- Frozen/Epilogue
+- Frozen/Some People Are Worth Melting For
+- Frozen/The Trolls
+- Frozen/Treason
 23. **Unsolicited (2020.09.24)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBb73xTDrukMcSbws987nFw1)
 - Chicago/Look Away
 - Chicago/One From The Heart
@@ -317,11 +317,11 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Mili/Rosetta
 - Mili/Unidentified Flavourful Object
 8. **Matrices (2021.04.15)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaH1YCYItbMGpQrkciJky3d)
-- (alt) Christophe Beck/Sisters
-- (---) Jonathan Groff/Get This Right
-- (---) Josh Gad/Unmeltable Me
-- (alt) Kristen Anderson-Lopez/I Seek The Truth
-- (alt) Kristen Bell/Home
+- Christophe Beck/Sisters
+- Jonathan Groff/Get This Right
+- Josh Gad/Unmeltable Me
+- Kristen Anderson-Lopez/I Seek The Truth
+- Kristen Bell/Home
 9. **Tensa (2021.05.09)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbpqO6-mRprb8zwM5NX4QJ2)
 - Christophe Beck/Fire and Ice
 - Christophe Beck/Iduna's Scarf
@@ -350,10 +350,10 @@ All the personal musical taste and playlists known as "Tracerecord" combined int
 - Seycara/Shelter Ghibli Orchestra
 - Seycara/Shelter Ghibli Piano and Violin
 14. **Liebe (2021.07.23)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBZYwWYQqW1OIGXZppgi69li)
-- (alt) Kokia/Raion
-- (alt) Kokia/Kujira
-- (---) Kokia/Fukurou
-- (---) Kokia/Kuma
+- Kokia/Raion
+- Kokia/Kujira
+- Kokia/Fukurou
+- Kokia/Kuma
 15. **Power (2021.08.16)** [🎵](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBa5gt-k6eRzK6agpC46IrBy)
 - Coldplay/Higher Power
 - Mili/RTRT
