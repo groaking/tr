@@ -1036,3 +1036,16 @@ _The TR-B which gave rise to this TR-A was traced during the upgrade period of M
 
 _This playlist contains the songs and the artist that were recommended by Van of Dagel. It was first traced during the BV-Meh-21 Kahat training of trainers in Grisin [^LC]. [nd-1004/18-great-van]_
 
+### 21. **Surakarta Block**
+
+> [![asd](https://raw.githubusercontent.com/groaking/tr/main/youtube_icon.svg)](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBaVTfczZF8WKR0BwJB-FUwq) &nbsp;&nbsp; Established June 27, 2024
+
+- **Gamaband** — Berdansa
+- **Gamaband** — Hilang
+- **Gamaband** — Kisah Kita
+- **Gamaband** — Distance
+- **Gamaband** — Cinta Hanya untuk Saat Ini
+- **Gamaband** — Berlayar
+
+_This tracerecord was created immediately after wonit realized that Gamaband has released a second album named "Lakara". [nd-1004/19-nouveau-gama] It was traced during trip to attend the NV-Meh-47 poetry-writing competition in Owci with Kata (HWA 022-12 NC~51; hence the identity). We lost. We got upset because the judge thought that archaic words aren't fitting for their contemporary taste. This TR was also traced during the early development phase of BV-Meh-34 app-making project in Wonderland, where Wonit had several Esudes with Devoso almost each night. [2024-08-08]_
+
