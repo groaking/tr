@@ -943,7 +943,7 @@ _The Tracerecord that was traced during the pre-Homeleft period of the Ramadhan 
 - **Rush Garcia** — Sketch 23 - Unorthodox
 - **Rush Garcia** — Sketch 24 - Shine and Never Fade
 
-_This z-Tracerecord got its name since it was traced and TR-B-to-TR-A converted during a period in the Art Order of Projectile-ZZZ called the Artistic Relapse Period (zzz.0:300$y), which is deemed as one of the lowest phase recorded during the writing of Projectile-ZZZ. Some events recorded during the tracing of Low Block's TR-B are: - Over-excessive Binet (Swimming Pool Vento zzz.0:397\~113) - The second Feruar to Jci during a Wedcis (Second Feruar Vento zzz.0:420\~120) - TO and Fideweb, violation against Ursia Decision (Cognitive Dissonance Vento zzz.0:424\~122) - Breaking-up with Haha/Meta-FB for 120 hours (Quiet Week Vento zzz.0:429\~124)  The TR-B was called "Enduring Control". And the `nd-1004` form narrates the TR-B as follows:  "[The TR-B] began being traced during the Artistic Relapse Period (zzz.0:300$y) where Wonit lost control over several things in his life —and he must endure the last weeks of Neptunal VIII" [2023-08-04]_
+_This z-Tracerecord got its name since it was traced and TR-B-to-TR-A converted during a period in the Art Order of Projectile-ZZZ called the Artistic Relapse Period (`zzz.0:300$y`), which is deemed as one of the lowest phase recorded during the writing of Projectile-ZZZ. Some events recorded during the tracing of Low Block's TR-B are: - Over-excessive Binet (Swimming Pool Vento `zzz.0:397~113`) - The second Feruar to Jci during a Wedcis (Second Feruar Vento `zzz.0:420~120`) - TO and Fideweb, violation against Ursia Decision (Cognitive Dissonance Vento `zzz.0:424~122`) - Breaking-up with Haha/Meta-FB for 120 hours (Quiet Week Vento `zzz.0:429~124`)  The TR-B was called "Enduring Control". And the `nd-1004` form narrates the TR-B as follows:  "[The TR-B] began being traced during the Artistic Relapse Period (`zzz.0:300$y`) where Wonit lost control over several things in his life —and he must endure the last weeks of Neptunal VIII" [2023-08-04]_
 
 ### 14. **Last Block**
 
@@ -1047,10 +1047,10 @@ _This playlist contains the songs and the artist that were recommended by Van of
 - **Gamaband** — Cinta Hanya untuk Saat Ini
 - **Gamaband** — Berlayar
 
-_This tracerecord was created immediately after wonit realized that Gamaband has released a second album named "Lakara". [nd-1004/19-nouveau-gama] It was traced during trip to attend the NV-Meh-47 poetry-writing competition in Owci with Kata (HWA 022-12 NC\~51; hence the identity). We lost. We got upset because the judge thought that archaic words aren't fitting for their contemporary taste. This TR was also traced during the early development phase of BV-Meh-34 app-making project in Wonderland, where Wonit had several Esudes with Devoso almost each night. [2024-08-08]_
+_This tracerecord was created immediately after wonit realized that Gamaband has released a second album named "Lakara". [nd-1004/19-nouveau-gama] It was traced during trip to attend the NV-Meh-47 poetry-writing competition in Owci with Kata (`HWA 022-12 NC~51`; hence the identity). We lost. We got upset because the judge thought that archaic words aren't fitting for their contemporary taste. This TR was also traced during the early development phase of BV-Meh-34 app-making project in Wonderland, where Wonit had several Esudes with Devoso almost each night. [2024-08-08]_
 
 # F. Suspenzion Record
-_This record was established during the period of Likikisit (`w.0:498\~159`) in which period wonit had suspended from a significant number of Binary/Sunsen ulects. It was marked by the moving of B.A.S.E from Symbian to Kotilinit, which was believed to alleviate the malidarisit tendency of Four. The marking character "z" in "Suspenzion" was derived from "Halzion", which is one of the songs in the first TR-A of this record, Yue Block. This TR record also marked the beginning of bear's positive polarization toward Yue (`HWA 022-12 NC\~120`)_
+_This record was established during the period of Likikisit (`w.0:498~159`) in which period wonit had suspended from a significant number of Binary/Sunsen ulects. It was marked by the moving of B.A.S.E from Symbian to Kotilinit, which was believed to alleviate the malidarisit tendency of Four. The marking character "z" in "Suspenzion" was derived from "Halzion", which is one of the songs in the first TR-A of this record, Yue Block. This TR record also marked the beginning of bear's positive polarization toward Yue (`HWA 022-12 NC~120`)_
 
 ### 1. **Yue Block**
 
@@ -1063,5 +1063,18 @@ _This record was established during the period of Likikisit (`w.0:498\~159`) in 
 - **H△G** — Starry Night
 - **H△G** — Rain Lily
 
-_This TR-A marked wonit's increased positive polarization toward Yue as a Tisut. The story recounted in the poem **Yue Ponea** (`lp.0:310\~120`) showed that once wonit had a scintillating conversation with Yue on a Saturday evening, and found out that Yue also had interests in Mili, Yorushika, and Toto. From Tuesday, July 30, 2024 to August 7, 2024, Bear and Yue continuously exchanged messages by means of Susunen. Therein Yue gave wonit several song recommendations by the artist "DAG", which wonit immediately listened to and made tracerecord. [2024-08-08]_
+_This TR-A marked wonit's increased positive polarization toward Yue as a Tisut. The story recounted in the poem **Yue Ponea** (`lp.0:310~120`) showed that once wonit had a scintillating conversation with Yue on a Saturday evening, and found out that Yue also had interests in Mili, Yorushika, and Toto. From Tuesday, July 30, 2024 to August 7, 2024, Bear and Yue continuously exchanged messages by means of Susunen. Therein Yue gave wonit several song recommendations by the artist "DAG", which wonit immediately listened to and made tracerecord. [2024-08-08]_
+
+### 2. **Fideweb Block**
+
+> [![asd](https://raw.githubusercontent.com/groaking/tr/main/youtube_icon.svg)](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbyUx4xX72r9DeH5v2l21Hl) &nbsp;&nbsp; Established August 23, 2024
+
+- **H△G** — Shonento Mahouno Robot
+- **H△G** — White Clover
+- **H△G** — Girl Meets World
+- **H△G** — Shinpakusuu
+- **H△G** — Sakurano Ame
+- **H△G** — Three Years Diary
+
+_The tracerecord traced during wonit's initial phase in Kotilinit, Kobik. It was traced when wonit had eight fidewebs within the first two weeks of stay in Kotilinit. [2024-08-23]_
 
