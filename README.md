@@ -1078,3 +1078,16 @@ _This TR-A marked wonit's increased positive polarization toward Yue as a Tisut.
 
 _The tracerecord traced during wonit's initial phase in Kotilinit, Kobik. It was traced when wonit had eight fidewebs within the first two weeks of stay in Kotilinit. [2024-08-23]_
 
+### 3. **Suspend Block**
+
+> [![asd](https://raw.githubusercontent.com/groaking/tr/main/youtube_icon.svg)](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbhJdCIv0gyiChag7Qt5JPJ) &nbsp;&nbsp; Established September 22, 2024
+
+- **The Winking Owl** — Try
+- **The Winking Owl** — Precious Love
+- **The Winking Owl** — Kataomoi
+- **The Winking Owl** — Thanks Love Letter
+- **The Winking Owl** — Bloom
+- **The Winking Owl** — Lust
+
+_This borderline TR-A was traced during the Google Play app suspension incident of the BV-Meh-34 Adver-MAM app-making project. Thus, it is called such, _Suspend_. The songs were recommended by Yue after she gave wonit her Spotify playlist of her favorite songs. This event was thence documented in the poem in **UILE lp.0.131 Ponea** (`lp.0:332~131`) [2024-09-22]_
+
