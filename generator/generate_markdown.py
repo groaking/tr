@@ -9,7 +9,7 @@ template_header = '''
 All the personal musical taste and playlists known as "Tracerecord" combined into one single repository for accessibility
 '''.strip()
 
-template_yt_link = '> [![asd](https://raw.githubusercontent.com/groaking/tr/main/youtube_icon.svg)](%%%URL%%%) &nbsp;&nbsp; Established %%%DATE%%%'
+template_yt_link = '> [![YT](https://raw.githubusercontent.com/groaking/tr/main/youtube_icon.svg)](%%%URL%%%) &nbsp;&nbsp; Established %%%DATE%%%'
 
 content = ''
 
