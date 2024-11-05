@@ -1050,7 +1050,9 @@ _This playlist contains the songs and the artist that were recommended by Van of
 _This tracerecord was created immediately after wonit realized that Gamaband has released a second album named "Lakara". [nd-1004/19-nouveau-gama] It was traced during trip to attend the NV-Meh-47 poetry-writing competition in Owci with Kata (`HWA 022-12 NC~51`; hence the identity). We lost. We got upset because the judge thought that archaic words aren't fitting for their contemporary taste. This TR was also traced during the early development phase of BV-Meh-34 app-making project in Wonderland, where Wonit had several Esudes with Devoso almost each night. [2024-08-08]_
 
 # F. Suspenzion Record
-_This record was established during the period of Likikisit (`w.0:498~159`) in which period wonit had suspended from a significant number of Binary/Sunsen ulects. It was marked by the moving of B.A.S.E from Symbian to Kotilinit, which was believed to alleviate the malidarisit tendency of Four. The marking character "z" in "Suspenzion" was derived from "Halzion", which is one of the songs in the first TR-A of this record, Yue Block. This TR record also marked the beginning of bear's positive polarization toward Yue (`HWA 022-12 NC~120`)_
+_This record was established during the period of Likikisit (`w.0:498~159`) in which period wonit had suspended from a significant number of Binary/Sunsen ulects. It was marked by the moving of B.A.S.E from Symbian to Kotilinit, which was believed to alleviate the malidarisit tendency of Four. The marking character "z" in "Suspenzion" was derived from "Halzion", which is one of the songs in the first TR-A of this record, Yue Block. This TR record also marked the beginning of bear's positive polarization toward Yue (`HWA 022-12 NC~120`)
+
+Starting from this record, all YouTube playlists are given the corresponding description/story of TR-As._
 
 ### 1. **Yue Block**
 
