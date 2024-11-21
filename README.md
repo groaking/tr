@@ -1106,3 +1106,16 @@ _This borderline TR-A was traced during the Google Play app suspension incident 
 
 _This was traced during wonit's time of being the publication and documentation section member of the BV-Meh-39 family month affair of Adver. [2024-11-06]_
 
+### 5. **Thomas Block**
+
+> [![YT](https://raw.githubusercontent.com/groaking/tr/main/youtube_icon.svg)](https://www.youtube.com/playlist?list=PLRFQyQ8LzGBbQ-dqLmg8l_TtN9oZD6q9O) &nbsp;&nbsp; Established November 10, 2024
+
+- **Mili** — Hero [Limbus Company]
+- **Mili** — world.search(you);
+- **Mili** — Past the Stargazing Season
+- **Mili** — Yubikiri Genman
+- **Mili** — Red Dahlia
+- **Mili** — Ikutoshitsuki
+
+_This Borderline TR-A was traced during the dawn of Thomas-F during the incumbency of Projectile-GN (hence the TR identity). During the tracing period, wonit did write a blog article to Thomas-F almost every single day. The playlist represents some of the songs recommended by Yue in the late July 2024 that did not manage to be part of any TR-A. The BV-Meh-34/Chrisye project was also still ongoing during the tracing of this tracerecord._
+
